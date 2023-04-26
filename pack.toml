@@ -1,0 +1,13 @@
+name = "Arthurs New Modpack"
+author = "Arthurmeade12"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7818f9c9d1f3fabefefc68a60e98597b38591eff7101fc9e3aa38708d4be8b12"
+
+[versions]
+minecraft = "1.19.4"
+quilt = "0.19.0-beta.13"
