@@ -9,6 +9,54 @@ file = "README.md"
 hash = "735c743005694cfcb6405a0d67d7f3e3cfcfa17f697062893b036ef2f79efe1b"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "bac5674921396a44795d42eb416e21d113cda05d0390362f98c42f86bbf20a1c"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/iris.properties"
+hash = "b892c34acbd21b09e1ddfed8f99018c25e80abddb96296d4f70f267ad8b5301b"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "ffe01266dd86490f37f6ccc482df92c4db2dc53d5e1c22ba2163ccae54f0f80b"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "3af749dc511932aaf1f75ac1b3ee8e821a1ee79ed7f648d65de84c4d72fb086b"
+
+[[files]]
+file = "config/quilt-loader.txt"
+hash = "1b33641db5beb53a441b9d3d11b92ea89608a889fec3adcb8428da3f0ab78194"
+
+[[files]]
+file = "config/quilt/qsl/registry.toml"
+hash = "5ef23446d609c713e513f80131eefadefe46bc3b016d58088b18a8ef88ee2217"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "1361b271e26744966b67253b87a81c67e737a91ea893533e51171dcd3e804a71"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "c6b130b15d25ef13c2480d994782edd68d2cb20f409d28bb8cd126e4d7906fbd"
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
@@ -62,3 +110,7 @@ metafile = true
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "86916aaa5ce80b92140abbd4bab02dd806ee72ec04fe96919982182c4fb3a764"
